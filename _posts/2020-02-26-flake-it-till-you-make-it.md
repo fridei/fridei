@@ -4,11 +4,11 @@ date: 2020-02-26 00:00:00 -05:00
 tags:
 - books
 - test
-layout: post
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: "/assets/img/path.jpg"
+cover-img: https://www.darksky.org/wp-content/uploads/2017/08/xVeil_Nebula_-_NGC6960.jpg.pagespeed.ic.McXn04TDXg.webp
 thumbnail-img: "/assets/img/thumb.png"
 share-img: "/assets/img/path.jpg"
+layout: post
 ---
 
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
