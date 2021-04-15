@@ -27,7 +27,7 @@ navbar-links:
   - Sundei: http://sundei.nhungngaycuoituan.com
   - Weekends: http://nhungngaycuoituan.com
   Author's home: http://nhungngaycuoituan.com
-avatar: /assets/img/avatar-icon.png
+avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
 social-network-links:
   email: someone@example.com
