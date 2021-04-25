@@ -30,19 +30,17 @@ navbar-links:
 avatar: https://i.vgy.me/s0cEGg.png
 round-avatar: true
 social-network-links:
-  email: someone@example.com
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-rss-description: This website is a virtual proof that I'm awesome
+  email: thuyvu.ftu@gmail.com
+  facebook: frideipatronus
+  github: fridei
+  youtube: fridei
+rss-description: I'm fridei and I'm awesome
 share-links-active:
   twitter: true
   facebook: true
   linkedin: true
   vk: false
-url-pretty: MyWebsite.com
+url-pretty: nhungngaycuoituan.com
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
